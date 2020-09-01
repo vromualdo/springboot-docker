@@ -1,0 +1,4 @@
+br\com\purple\StartApplication.class
+br\com\purple\model\Usuario.class
+br\com\purple\controller\UsuarioController.class
+br\com\purple\config\Swagger2Config.class
